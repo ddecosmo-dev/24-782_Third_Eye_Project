@@ -1,0 +1,11 @@
+datasets
+ipykernel
+matplotlib
+numpy
+pandas
+Pillow
+seaborn
+torch
+torchvision
+tqdm
+transformers
